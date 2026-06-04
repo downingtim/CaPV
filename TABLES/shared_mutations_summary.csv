@@ -1,0 +1,31 @@
+Comparison_Pair,Metric_Category,Shared_Count,Rate_Per_Available_Sites
+LSDV vs SPPV,Shared Intergenic (Same Base),0,0.000000
+LSDV vs SPPV,Shared Synonymous (Same Base),0,0.000000
+LSDV vs SPPV,"Shared Nonsynonymous (Same Base, Same AA)",0,0.000000
+LSDV vs SPPV,"Shared Nonsynonymous (Diff Base, Same AA) *TRUE CONVERGENCE*",0,0.000000
+LSDV vs SPPV,Shared Nonsynonymous Stop Creations,0,0.000000
+LSDV vs SPPV,Shared Nonsynonymous Stop Losses,0,0.000000
+LSDV vs SPPV_modern,Shared Intergenic (Same Base),0,0.000000
+LSDV vs SPPV_modern,Shared Synonymous (Same Base),0,0.000000
+LSDV vs SPPV_modern,"Shared Nonsynonymous (Same Base, Same AA)",0,0.000000
+LSDV vs SPPV_modern,"Shared Nonsynonymous (Diff Base, Same AA) *TRUE CONVERGENCE*",0,0.000000
+LSDV vs SPPV_modern,Shared Nonsynonymous Stop Creations,0,0.000000
+LSDV vs SPPV_modern,Shared Nonsynonymous Stop Losses,0,0.000000
+LSDV vs GTPV,Shared Intergenic (Same Base),0,0.000000
+LSDV vs GTPV,Shared Synonymous (Same Base),0,0.000000
+LSDV vs GTPV,"Shared Nonsynonymous (Same Base, Same AA)",0,0.000000
+LSDV vs GTPV,"Shared Nonsynonymous (Diff Base, Same AA) *TRUE CONVERGENCE*",0,0.000000
+LSDV vs GTPV,Shared Nonsynonymous Stop Creations,0,0.000000
+LSDV vs GTPV,Shared Nonsynonymous Stop Losses,0,0.000000
+GTPV vs SPPV,Shared Intergenic (Same Base),11,0.001924
+GTPV vs SPPV,Shared Synonymous (Same Base),79,0.000545
+GTPV vs SPPV,"Shared Nonsynonymous (Same Base, Same AA)",105,0.000725
+GTPV vs SPPV,"Shared Nonsynonymous (Diff Base, Same AA) *TRUE CONVERGENCE*",1,0.000007
+GTPV vs SPPV,Shared Nonsynonymous Stop Creations,1,0.000007
+GTPV vs SPPV,Shared Nonsynonymous Stop Losses,0,0.000000
+GTPV vs SPPV_modern,Shared Intergenic (Same Base),5,0.000875
+GTPV vs SPPV_modern,Shared Synonymous (Same Base),20,0.000138
+GTPV vs SPPV_modern,"Shared Nonsynonymous (Same Base, Same AA)",12,0.000083
+GTPV vs SPPV_modern,"Shared Nonsynonymous (Diff Base, Same AA) *TRUE CONVERGENCE*",2,0.000014
+GTPV vs SPPV_modern,Shared Nonsynonymous Stop Creations,0,0.000000
+GTPV vs SPPV_modern,Shared Nonsynonymous Stop Losses,0,0.000000
